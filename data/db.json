@@ -29,22 +29,22 @@
     {
       "id": "1",
       "title": "Ninja UX Designer",
-      "description": "Stealthy UX skills"
+      "details": "Stealthy UX skills"
     },
     {
       "id": "2",
       "title": "Ninja Web Designer",
-      "description": "Cutting Edge Design"
+      "details": "Cutting Edge Design"
     },
     {
       "id": "3",
       "title": "Ninja Vue Developer",
-      "description": "Nimble with code"
+      "details": "Nimble with code"
     },
     {
       "id": "4",
       "title": "Ninja Master DevOps",
-      "description": "Black Belt Composition"
+      "details": "Black Belt Composition"
     }
   ]
 }
