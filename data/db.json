@@ -1,0 +1,50 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "March 1st at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Meeting for Work",
+      "day": "March 3rd at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Lunch date with WiggleWorm",
+      "day": "March 4th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Add json server",
+      "day": "today",
+      "reminder": true,
+      "id": "VraVSEa"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Ninja UX Designer",
+      "description": "Stealthy UX skills"
+    },
+    {
+      "id": "2",
+      "title": "Ninja Web Designer",
+      "description": "Cutting Edge Design"
+    },
+    {
+      "id": "3",
+      "title": "Ninja Vue Developer",
+      "description": "Nimble with code"
+    },
+    {
+      "id": "4",
+      "title": "Ninja Master DevOps",
+      "description": "Black Belt Composition"
+    }
+  ]
+}
